@@ -19,12 +19,12 @@ Diabet Feature Engineering Project
 
  9 Değişken 768 Gözlem 24 KB
 
- Pregnancies Hamilelik sayısı
- Glucose Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
- Blood Pressure Kan Basıncı (Küçük tansiyon) (mm Hg)
- SkinThickness Cilt Kalınlığı
- Insulin 2 saatlik serum insülini (mu U/ml)
- DiabetesPedigreeFunction Soydaki kişilere göre diyabet olma ihtimalini hesaplayan bir fonksiyon
- BMI Vücut kitle endeksi
- Age Yaş (yıl)
- Outcome Hastalığa sahip (1) ya da değil (0)
+##### Pregnancies : Hamilelik sayısı
+##### Glucose : Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
+##### Blood Pressure : Kan Basıncı (Küçük tansiyon) (mm Hg)
+##### SkinThickness : Cilt Kalınlığı
+##### Insulin : 2 saatlik serum insülini (mu U/ml)
+##### DiabetesPedigreeFunction : Soydaki kişilere göre diyabet olma ihtimalini hesaplayan bir fonksiyon
+##### BMI : Vücut kitle endeksi
+##### Age : Yaş (yıl)
+##### Outcome : Hastalığa sahip (1) ya da değil (0)
